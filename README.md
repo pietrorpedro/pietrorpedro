@@ -1,5 +1,5 @@
-# 💫 Sobre mim:
-Desenvolvedor Back End
+# 💫
+"Na programação, praticamente tudo se resume a operações CRUD."
 
 
 # 💻 Tech Stack:

@@ -1,5 +1,5 @@
 # 💫
-"Na programação, praticamente tudo se resume a operações CRUD."
+"Codificando o futuro, bit a bit."
 
 
 # 💻 Tech Stack:

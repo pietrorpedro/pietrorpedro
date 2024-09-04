@@ -1,5 +1,5 @@
-# 💫 Sobre mim:
-Olá! Meu nome é Pietro, sou um estudante de Engenharia de Software no Instituto Infnet. Minha paixão por tecnologia e inovação me levou a explorar e me especializar em diversas linguagens de programação, incluindo Javascript, PHP e Java.
+# 💫 Bio:
+Programador Full Stack, Eu faço coisas.
 
 # 💻 Tecnologias:
 <div align="center">
@@ -14,14 +14,9 @@ Olá! Meu nome é Pietro, sou um estudante de Engenharia de Software no Institut
 
 </div>
 
-# 📊 GitHub:
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=pietrorpedro&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pietrorpedro&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pietrorpedro&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
-
 ---
-[![](https://visitcount.itsvg.in/api?id=pietrorpedro&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  
+  [![](https://visitcount.itsvg.in/api?id=pietrorpedro&icon=0&color=0)](https://visitcount.itsvg.in)
+  
+</div>

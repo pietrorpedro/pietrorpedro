@@ -1,5 +1,5 @@
 # 💫 Bio:
-Programador Full Stack, Eu faço coisas.
+Programador Full Stack, Eu faço coisas, às vezes até demais.
 
 # 💻 Tecnologias:
 <div align="center">
